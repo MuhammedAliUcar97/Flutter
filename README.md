@@ -1,6 +1,6 @@
 # Flutter
 Youtube Link:
-https://www.youtube.com/watch?v=cEwI8ESl-9s&list=PL22ZxkbxSpJpSnihHlxKKSsnEEpxUGGCy&index=1
+https://www.youtube.com/watch?v=cEwI8ESl-9s&list=PL22ZxkbxSpJpSnihHlxKKSsnEEpxUGGCy&
 
 ![Ekran görüntüsü 2023-05-17 080933](https://github.com/MuhammedAliUcar97/Flutter/assets/115897973/10600840-ebd9-4924-86fb-6db2b5949718)
 
